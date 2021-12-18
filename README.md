@@ -1,3 +1,9 @@
+# JSON Server
+
+This project use json-server as a fake server.
+Should run the server before run the application.
+Run `npm run server` for a json-server. Navigate to `http://localhost:5000/`.
+
 # TaskApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
